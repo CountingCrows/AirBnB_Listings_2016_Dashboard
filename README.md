@@ -1,7 +1,7 @@
 # AirBnB_Listings_2016_Dashboard
 
 ## Project Overview
-- Created an interactive dashboard with [Tableau Public](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset) with dataset that
+- Created an interactive dashboard with Tableau Public using a dataset from [Kaggle](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset) that
 contains the AirBnB listing of all house sales in Seattle 2016.
 - The case of this project is “Your working for a client that wants to start an
 AirBnB business. So, you want to find out where to buy a house to put in
